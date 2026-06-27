@@ -2,7 +2,7 @@
 
 Welcome to the official open-source hub of the MUST computing community! This is a collaborative space where student developers, builders, and tech enthusiasts come together to write code, design hardware, deploy systems, and build the future.
 
-[🌐 Faculty Website](https://www.must.ac.ug) • [💬 Join Community WhatsApp](#) • [📚 Contribution Guide](CONTRIBUTING.md)
+[🌐 Faculty Website](https://www.must.ac.ug) • [💬 Join Community WhatsApp](#) • [📚 Contribution Guide](../CONTRIBUTING.md)
 
 ---
 
